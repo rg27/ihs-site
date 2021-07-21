@@ -61,7 +61,7 @@ const Hero = ({
         <div className={innerClasses}>
           <div className="hero-content">
             <h1 className="mt-0 mb-16 reveal-from-bottom" data-reveal-delay="200">
-              Landing template for <span className="text-color-primary">startups</span>
+              I-Healthcare<span className="text-color-primary">Solutions</span>
             </h1>
             <div className="container-xs">
               <p className="m-0 mb-32 reveal-from-bottom" data-reveal-delay="400">
@@ -69,11 +69,11 @@ const Hero = ({
                 </p>
               <div className="reveal-from-bottom" data-reveal-delay="600">
                 <ButtonGroup>
-                  <Button tag="a" color="primary" wideMobile href="https://cruip.com/">
-                    Get started
+                  <Button tag="a" color="primary" wideMobile href="#">
+                    Contact
                     </Button>
-                  <Button tag="a" color="dark" wideMobile href="https://github.com/cruip/open-react-template/">
-                    View on Github
+                  <Button tag="a" color="dark" wideMobile href="#">
+                    About
                     </Button>
                 </ButtonGroup>
               </div>
