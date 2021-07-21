@@ -65,8 +65,8 @@ const Hero = ({
             </h1>
             <div className="container-xs">
               <p className="m-0 mb-32 reveal-from-bottom" data-reveal-delay="400">
-                Our landing page template works on all devices, so you only have to set it up once, and get beautiful results forever.
-                </p>
+                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean dictum arcu at turpis mollis ultricies. Interdum et malesuada fames ac ante ipsum primis in faucibus.
+              </p>
               <div className="reveal-from-bottom" data-reveal-delay="600">
                 <ButtonGroup>
                   <Button tag="a" color="primary" wideMobile href="#">
