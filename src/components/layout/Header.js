@@ -111,12 +111,12 @@ const Header = ({
                       'list-reset text-xs',
                       navPosition && `header-nav-${navPosition}`
                     )}>
-                    <li>
-                      <Link to="#about" onClick={closeMenu}>About</Link>
-                    </li>
-                    <li>
-                      <Link to="#services" onClick={closeMenu}>Services</Link>
-                    </li>
+                         <li><Link to="#home" onClick={closeMenu}>Home</Link></li>
+                         <li><Link to="#contact" onClick={closeMenu}>Contact</Link></li>
+                         <li><Link to="#blog" onClick={closeMenu}>Blog</Link></li>
+                         <li><Link to="#policies" onClick={closeMenu}>Policies</Link></li>
+                         <li><Link to="#providers" onClick={closeMenu}> For Providers</Link></li>
+                         <li><Link to="#patients" onClick={closeMenu}> For Patients</Link></li>
                   </ul>
                   {!hideSignin &&
                     <ul

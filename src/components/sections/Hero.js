@@ -65,7 +65,8 @@ const Hero = ({
             </h1>
             <div className="container-xs">
               <p className="m-0 mb-32 reveal-from-bottom" data-reveal-delay="400">
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean dictum arcu at turpis mollis ultricies. Interdum et malesuada fames ac ante ipsum primis in faucibus.
+              Connect virtually using a smart device or computer. Access to licensed, qualified providers. 
+              Add value and save with monthly membership options
               </p>
               <div className="reveal-from-bottom" data-reveal-delay="600">
                 <ButtonGroup>
@@ -81,25 +82,25 @@ const Hero = ({
           </div>
           <div className="hero-figure reveal-from-bottom illustration-element-01" data-reveal-value="20px" data-reveal-delay="800">
             <a
-              data-video="https://player.vimeo.com/video/174002812"
+              data-video="./../../assets/images/video-placeholder.jpg"
               href="#0"
               aria-controls="video-modal"
               onClick={openModal}
             >
               <Image
                 className="has-shadow"
-                src={require('./../../assets/images/video-placeholder.jpg')}
+                src={require('./../../assets/images/feature9.jpg')}
                 alt="Hero"
-                width={896}
-                height={504} />
+                width={750}
+                height={300} />
             </a>
           </div>
-          <Modal
+          {/* <Modal
             id="video-modal"
             show={videoModalActive}
             handleClose={closeModal}
-            video="https://player.vimeo.com/video/174002812"
-            videoTag="iframe" />
+            video="https://player.vimeo.com/video/231470663"
+            videoTag="iframe" /> */}
         </div>
       </div>
     </section>

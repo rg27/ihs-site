@@ -67,14 +67,14 @@ const FeaturesSplit = ({
             <div className="split-item">
               <div className="split-item-content center-content-mobile reveal-from-left" data-reveal-container=".split-item">
                 <div className="text-xxs text-color-primary fw-600 tt-u mb-8">
-                  Lightning fast workflow
+                  {/* Lightning fast workflow */}
                   </div>
                 <h3 className="mt-0 mb-12">
-                  Data-driven insights
-                  </h3>
+                  Patient Advocacy
+                </h3>
                 <p className="m-0">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua — Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-                  </p>
+                  Speak to a Patient Advocate about the benefits you may be entitled to through your health insurance coverage, or find out about our ultra-low self-pay pricing models that help you save  time and money. Your advocate is an expert at finding out the many ways you may benefit from virtual healthcare from confirming your insurance coverage benefits,  managing your patient records and documentation and so much more!
+                </p>
               </div>
               <div className={
                 classNames(
@@ -83,7 +83,7 @@ const FeaturesSplit = ({
                 )}
                 data-reveal-container=".split-item">
                 <Image
-                  src={require('./../../assets/images/features-split-image-01.png')}
+                  src={require('./../../assets/images/feature3.jpg')}
                   alt="Features split 01"
                   width={528}
                   height={396} />
@@ -93,14 +93,14 @@ const FeaturesSplit = ({
             <div className="split-item">
               <div className="split-item-content center-content-mobile reveal-from-right" data-reveal-container=".split-item">
                 <div className="text-xxs text-color-primary fw-600 tt-u mb-8">
-                  Lightning fast workflow
-                  </div>
+                  {/* Lightning fast workflow */}
+                </div>
                 <h3 className="mt-0 mb-12">
-                  Data-driven insights
+                  On-Demand Doctors
                   </h3>
                 <p className="m-0">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua — Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-                  </p>
+                  Connect remotely and virtually to a licensed and qualified medical doctor or practitioner from the comfort of your home quickly and easily with our industry-leading telemedicine platform and roster of healthcare providers from across the nation.
+                </p>
               </div>
               <div className={
                 classNames(
@@ -109,7 +109,7 @@ const FeaturesSplit = ({
                 )}
                 data-reveal-container=".split-item">
                 <Image
-                  src={require('./../../assets/images/features-split-image-02.png')}
+                  src={require('./../../assets/images/feature1.jpg')}
                   alt="Features split 02"
                   width={528}
                   height={396} />
@@ -119,14 +119,14 @@ const FeaturesSplit = ({
             <div className="split-item">
               <div className="split-item-content center-content-mobile reveal-from-left" data-reveal-container=".split-item">
                 <div className="text-xxs text-color-primary fw-600 tt-u mb-8">
-                  Lightning fast workflow
+                  {/* Lightning fast workflow */}
                   </div>
                 <h3 className="mt-0 mb-12">
-                  Data-driven insights
-                  </h3>
+                  Continuity of Care
+                </h3>
                 <p className="m-0">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua — Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-                  </p>
+                  With Remote Patient Monitoring, Routing Follow-ups, Urgent and Family Care services and more, our team of Health Advocates, providers and practitioners are dedicated to assuring you get the most your membership and services you need to be well and stay healthy. We make the most of tele health technology by including useful features such as SMS/text updates, notifications and reminders and a Patient Portal that keeps your health at your fingertips and always within reach.
+                </p>
               </div>
               <div className={
                 classNames(
@@ -135,7 +135,7 @@ const FeaturesSplit = ({
                 )}
                 data-reveal-container=".split-item">
                 <Image
-                  src={require('./../../assets/images/features-split-image-03.png')}
+                  src={require('./../../assets/images/feature4.jpg')}
                   alt="Features split 03"
                   width={528}
                   height={396} />

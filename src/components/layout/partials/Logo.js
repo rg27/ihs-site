@@ -18,13 +18,13 @@ const Logo = ({
       {...props}
       className={classes}
     >
-      <h1 className="m-0">
+      <h1 className="m-0 text-center">
         <Link to="/">
           <Image
-            src={require('./../../../assets/images/logo.svg')}
+            src={require('./../../../assets/images/logo.png')}
             alt="Open"
-            width={32}
-            height={32} />
+            width={80}
+            height={1} />
         </Link>
       </h1>
     </div>
