@@ -62,7 +62,7 @@ const Testimonial = ({
               <div className="tiles-item-inner">
                 <div className="testimonial-item-content">
                   <p className="text-sm mb-0">
-                    — When my mother was diagnosed with cancer, we knew that Nationwide Health Advocates is the hospital we could trust. Their state of the art facilities made my mother feel at ease. After 6 months of treatment, my mother was completely healed. I owe it all to the professionals here at Hospy. Thank you so much!
+                    — When my mother was diagnosed with cancer, we knew that I-Healthcare Solutions is the hospital we could trust. Their state of the art facilities made my mother feel at ease. After 6 months of treatment, my mother was completely healed. I owe it all to the professionals here at Hospy. Thank you so much!
                       </p>
                 </div>
                 <div className="testimonial-item-footer text-xs mt-32 mb-0 has-top-divider">
@@ -75,7 +75,7 @@ const Testimonial = ({
               <div className="tiles-item-inner">
                 <div className="testimonial-item-content">
                   <p className="text-sm mb-0">
-                    — When my mother was diagnosed with cancer, we knew that Nationwide Health Advocates would be able to let her know what options she had available to her, based on her time and resources she had at her disposal. I don't know what we would do without the Patient Advocate that helped us every step of the way. Thank you so much! 
+                    — When my mother was diagnosed with cancer, we knew that I-Healthcare Solutions would be able to let her know what options she had available to her, based on her time and resources she had at her disposal. I don't know what we would do without the Patient Advocate that helped us every step of the way. Thank you so much! 
                       </p>
                 </div>
                 <div className="testimonial-item-footer text-xs mt-32 mb-0 has-top-divider">
