@@ -44,8 +44,9 @@ const Footer = ({
             <FooterSocial />
           </div>
           <div className="footer-bottom space-between text-xxs invert-order-desktop">
-            <FooterNav />
+            {/* <FooterNav /> */}
             <div className="footer-copyright">Made by <a href="#">Telewell</a>. All right reserved</div>
+            <div className="footer">30 N Gould Street, Suite R Sheridan WY 82801</div>
           </div>
         </div>
       </div>
